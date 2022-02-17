@@ -1,2 +1,6 @@
 Task1/terraform.tfstate
 Task1/.terraform
+Task2/.terraform
+Task2/terraform.tfstate
+Task2/terraform.tfstate.backup
+Task2/secrets.tfvars
